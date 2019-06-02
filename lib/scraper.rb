@@ -45,5 +45,5 @@ class Scraper
 
 end
 
-puts Scraper.new.get_page
+# puts Scraper.new.get_page
 puts Scraper.new.print_courses
